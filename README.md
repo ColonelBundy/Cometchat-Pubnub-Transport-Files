@@ -1,6 +1,6 @@
 Cometchat-Pubnub-Transport-Files
 ================================
-// Pubnub Transport Made By Makkesk8 - Tested with Cometchat 4.4.0 
+// Pubnub Transport Made By Makkesk8 - Tested with Cometchat 4.4.0    
 // Contact: makkesk8@live.se
 
 Requirements:
